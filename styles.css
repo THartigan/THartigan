@@ -10,11 +10,11 @@
 /* Base font and background */
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  background-color: #f9f9f9;
+  background-color: #bfdbec;
   color: #333;
 }
 
-/* Navigation styles */
+/* Navigation styles
 nav {
   background-color: #fff;
   padding: 20px;
@@ -28,7 +28,7 @@ nav ul {
 }
 
 nav li {
-  margin-left: 30px;
+  margin-left: 0px;
 }
 
 nav a {
@@ -39,17 +39,17 @@ nav a {
 
 nav a:hover {
   color: #007acc;
-}
+} */
 
-/* Header styles */
+/* Header styles
 header {
   text-align: center;
   padding: 100px 20px;
   background-image: url('images/header-bg.jpg');
   background-size: cover;
   background-position: center;
-  color: #fff;
-}
+  color: #ef0c0c;
+} */
 
 header h1 {
   font-size: 48px;
@@ -124,12 +124,13 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 20px 40px;
+  padding: 10px 40px;
+  height: 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: transparent; /* Transparent at the top */
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
   z-index: 1000; /* Keep header above other elements */
 }
 
@@ -163,21 +164,21 @@ header.scrolled {
 
 /* Adjust body content to account for fixed header */
 body {
-  margin-top: 80px; /* Adjust based on header height */
+  margin-top: 60px; /* Adjust based on header height */
 }
 
 /* Navigation Menu Styles */
 .nav-menu {
   position: fixed;
   top: 0;
-  right: -250px; /* Hidden by default */
-  width: 250px;
+  right: -200px; /* Hidden by default */
+  width: 200px;
   height: 100%;
   background-color: #fff;
-  padding: 80px 20px 20px; /* Adjust padding for menu content */
+  padding: 40px 20px 20px; /* Adjust padding for menu content */
   box-shadow: -2px 0 4px rgba(0, 0, 0, 0.1);
   transition: right 0.3s ease;
-  z-index: 999; /* Below header */
+  z-index: 1001; /* Above header */
 }
 
 .nav-menu.open {
@@ -222,16 +223,16 @@ body {
 /* Responsive adjustments */
 @media (max-width: 768px) {
   header {
-    padding: 15px 20px;
+    padding: 8px 16px;
   }
 
   .header-title {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .menu-button {
     font-size: 16px;
-    padding: 8px 16px;
+    padding: 8px 12px;
   }
 
   nav ul {
