@@ -7,6 +7,29 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Flex container styles */
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure it takes at least the full viewport height */
+}
+
+/* Main content styles */
+main {
+  flex: 1; /* Allows the main content to expand and fill available space */
+}
+
+/* Adjust padding-top to prevent content being hidden behind the header */
+.flex-container {
+  padding-top: 10vh; /* Adjust based on header height */
+}
+
 /* Base font and background */
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
@@ -62,7 +85,7 @@ header p {
 
 /* Main content styles */
 main {
-  padding: 50px 20px;
+  padding: 20px 20px;
 }
 
 /* Project showcase */
@@ -125,7 +148,7 @@ header {
   left: 0;
   width: 100%;
   padding: 10px 40px;
-  height: 30px;
+  height: 10vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -164,7 +187,7 @@ header.scrolled {
 
 /* Adjust body content to account for fixed header */
 body {
-  margin-top: 60px; /* Adjust based on header height */
+  margin-top: 0vh; /* Adjust based on header height */
 }
 
 /* Navigation Menu Styles */
