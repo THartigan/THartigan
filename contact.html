@@ -1,18 +1,21 @@
-<!-- contact.html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contact - Your Name</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Your Name - Portfolio</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
 
-  <!-- Navigation -->
-  <nav>
+  <header>
+    <div class="header-title">Home</div>
+    <a href="#" class="menu-button">Menu</a>
+  </header>
+
+  <!-- Navigation Menu -->
+  <nav class="nav-menu">
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="projects.html">Projects</a></li>
@@ -21,14 +24,19 @@
     </ul>
   </nav>
 
-  <!-- Header -->
-  <header>
-    <h1>Contact Me</h1>
-    <p>I'd love to hear from you</p>
-  </header>
+  <!-- Overlay -->
+  <div class="overlay"></div>
 
+  
+
+  <!-- Flex container start -->
+  <div class="flex-container">
+    
+  
   <!-- Main Content -->
   <main>
+    <h1>Contact Me</h1>
+    <p>I'd love to hear from you</p>
     <h2>Get in Touch</h2>
     <p>You can reach me through the following channels:</p>
     <ul>
@@ -37,11 +45,16 @@
       <li>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></li>
     </ul>
   </main>
+      
+    
 
-  <!-- Footer -->
-  <footer>
-    &copy; 2023 Your Name. All rights reserved.
-  </footer>
+    <!-- Footer -->
+    <footer>
+      &copy; 2024 Thomas Hartigan. All rights reserved.
+    </footer>
+  </div> 
 
+  <!-- Include script.js -->
+  <script src="script.js"></script>
 </body>
 </html>

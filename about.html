@@ -1,18 +1,21 @@
-<!-- about.html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>About Me - Your Name</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Your Name - Portfolio</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
 
-  <!-- Navigation -->
-  <nav>
+  <header>
+    <div class="header-title">Home</div>
+    <a href="#" class="menu-button">Menu</a>
+  </header>
+
+  <!-- Navigation Menu -->
+  <nav class="nav-menu">
     <ul>
       <li><a href="index.html">Home</a></li>
       <li><a href="projects.html">Projects</a></li>
@@ -21,14 +24,18 @@
     </ul>
   </nav>
 
-  <!-- Header -->
-  <header>
-    <h1>About Me</h1>
-    <p>Get to know me better</p>
-  </header>
+  <!-- Overlay -->
+  <div class="overlay"></div>
 
+  
+
+  <!-- Flex container start -->
+  <div class="flex-container">
+    
   <!-- Main Content -->
   <main>
+    <h1>About Me</h1>
+    <p>Get to know me better</p>
     <h2>Hello, I'm [Your Name]</h2>
     <p>
       <!-- Your bio goes here -->
@@ -42,11 +49,16 @@
       <!-- Add more skills as needed -->
     </ul>
   </main>
+      
+    
 
-  <!-- Footer -->
-  <footer>
-    &copy; 2023 Your Name. All rights reserved.
-  </footer>
+    <!-- Footer -->
+    <footer>
+      &copy; 2024 Thomas Hartigan. All rights reserved.
+    </footer>
+  </div> 
 
+  <!-- Include script.js -->
+  <script src="script.js"></script>
 </body>
 </html>
