@@ -1,0 +1,139 @@
+/* styles.css */
+
+/* Reset margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base font and background */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Navigation styles */
+nav {
+  background-color: #fff;
+  padding: 20px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav li {
+  margin-left: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #007acc;
+}
+
+/* Header styles */
+header {
+  text-align: center;
+  padding: 100px 20px;
+  background-image: url('images/header-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+header h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+header p {
+  font-size: 24px;
+}
+
+/* Main content styles */
+main {
+  padding: 50px 20px;
+}
+
+/* Project showcase */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+}
+
+.project-card {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.project-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.project-card h3 {
+  margin: 20px 0 10px;
+}
+
+.project-card p {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.project-card a {
+  text-decoration: none;
+  color: #007acc;
+  font-weight: bold;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 30px 20px;
+  background-color: #fff;
+  border-top: 1px solid #eaeaea;
+  color: #999;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav li {
+    margin: 10px 0;
+  }
+
+  header {
+    padding: 50px 20px;
+  }
+
+  header h1 {
+    font-size: 36px;
+  }
+
+  header p {
+    font-size: 18px;
+  }
+}
