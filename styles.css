@@ -37,7 +37,7 @@ main {
 /* Base font and background */
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  background-color: #bfdbec;
+  background-color: #ffffff;
   color: #333;
 }
 
@@ -100,17 +100,22 @@ main {
 }
 
 .project-card {
-  background-color: #fff;
+  background-color: #e2e1e192;
   padding: 20px;
-  border: 1px solid #eaeaea;
+  border: 1px solid #eaeaea00;
   border-radius: 8px;
   text-align: center;
+  transition: background-color 0.15s ease
+}
+
+.project-card:hover {
+  background-color: #dcdcdc
 }
 
 .project-card img {
   max-width: 100%;
   height: auto;
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 .project-card h3 {
@@ -136,9 +141,9 @@ main {
 footer {
   text-align: center;
   padding: 30px 20px calc(30px + env(safe-area-inset-bottom)) 20px;
-  background-color: #fff;
-  border-top: 1px solid #eaeaea;
-  color: #999;
+  background-color: #e2e1e192;
+  /* border-top: 1px solid #000000; */
+  color: #000000;
 }
 
 /* styles.css */
