@@ -21,7 +21,7 @@
 <body>
 
   <header>
-    <div class="header-title">My Portfolio</div>
+    <div class="header-title">Movement Classification By CNNs</div>
     <a href="#" class="menu-button">Menu</a>
   </header>
 
@@ -31,7 +31,7 @@
       <li><a href="index.html">Home</a></li>
       <li><a href="projects.html">Projects</a></li>
       <li><a href="about.html">About Me</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="misc.html">Misc.</a></li>
     </ul>
   </nav>
 
@@ -45,13 +45,29 @@
 
     <!-- Main Content -->
     <main>
-      <h1>Placeholder</h1>
-      <ul>
-        <li>Developed apps in swift for Apple Watch and iPhone. This allows gyroscope data recorded by the watch to be synchronised with a video recorded by the iPhone. The iPhone app then allows for playback of the video to label important events. </li>
-        <li>Created a machine learning framework in python using PyTorch which takes a dataset recorded using these apps and trains a model to classify whether a sit-up was completed in a short timeframe or not. This also rejects "fake" sit-ups.</li>
-        <li>Currently developing an app which uses this model to count the number of sit-ups completed locally on an Apple Watch. This aspect currently works, and will be expanded into a useful app soon.</li>
-      </ul>
-      <a href="https://github.com/yourusername/project-one" target="_blank">View on GitHub</a>
+      <div class="project-card-2">
+        
+        <img src="images/situps.jpeg" alt="Situps Project Image">
+        <div class="gray-background-list">
+          <h2>Overview</h2>
+          <ul>
+            <li> Trained a CNN model in PyTorch capable of using Apple Watch gyroscope data to determine whether the wearer
+              has completed a sit‑up in the previous two seconds.</li>
+            <li> Generated the training dataset for this by creating a joint Apple Watch and iPhone data logging, video recording
+              and data labelling app. <a href="https://github.com/THartigan/AADatalog">View on GitHub.</a></li>
+            <li> Incorporated regularisation, data normalisation and a variable learning rate in the model training process to pre‑
+              vent over‑fitting whilst maximising accuracy. <a href="https://github.com/THartigan/AATraining">View on GitHub.</a></li>
+            <li>Developed a proof‑of‑concept Apple Watch app that terminates an alarm after detecting completion of 10 sit‑ups
+              using this model. <a href="https://github.com/THartigan/AADeployment">View on GitHub.</a></li>
+            <li> Undertook the Google ”Machine Learning Crash Course” and read parts of ”An Introduction to Statistical Learning”
+              and ”Elements of Statistical Learning” to help with this project.</li>
+          </ul>
+        </div>
+        
+      </div>
+      
+
+      <!-- <a href="https://github.com/yourusername/project-one" target="_blank">View on GitHub</a> -->
     </main>
 
     

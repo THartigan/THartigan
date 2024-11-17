@@ -31,7 +31,7 @@
       <li><a href="index.html">Home</a></li>
       <li><a href="projects.html">Projects</a></li>
       <li><a href="about.html">About Me</a></li>
-      <li><a href="contact.html">Contact</a></li>
+      <li><a href="misc.html">Misc.</a></li>
     </ul>
   </nav>
 
@@ -45,60 +45,80 @@
 
     <!-- Main Content -->
     <main>
-      <h1>About Me</h1>
-      <body>Hi, I'm Tom - a fourth year Physics student at the University of Cambridge. Welcome to my website. Here, you can find more information and links to the GitHub pages for many of my projects. There are also links to some of my notes, presentations I have given and other resources I have found useful.</body>
+
+      <body>
+        <div class="floating-box">
+            <h1>About Me</h1>
+            <p>
+                Hi, I'm Thomas - a fourth year Physics student at the University of Cambridge. 
+                Welcome to my website. Here, you can find more information about me and links to the 
+                GitHub pages for many of my projects. There are also links to some of my notes, 
+                presentations I have given and other resources I have found useful.
+            </p>
+        </div>
+      </body>
+
+      <div class="spacer"></div> 
+      <body>
+        <div class="floating-box">
+          <h1>Featured Projects</h1>
+          <div class="project-grid">
+            <!-- Masters Project -->
+            <div class="project-card" onclick="window.location.href='masters.html';">
+              <h2>Deep Learning Approaches for Tumour Identification and Classification</h2>
+              <h3>October 2024 - Present</h3>
+              <img src="images/masters.png" alt="Masters Project Image">
+            </div>
+    
+            <!-- Sit-ups Project -->
+            <div class="project-card" onclick="window.location.href='CNNs.html';">
+              <h2>Movement Classification by Convolutional Neural Networks</h3>
+              <h3>July 2024 - Present</h3>
+              <img src="images/situps.jpeg" alt="sit-ups screenshot">
+            </div>
+            
+            <!-- N-Body Project -->
+            <div class="project-card" onclick="window.location.href='N-body.html';">
+              <h2>Hierarchical Methods for N-Body Simulations</h2>
+              <h3>February 2024 - May 2024</h3>
+              <img src="images/computing.png" alt="Part II Computing Project Image">
+            </div>
+    
+            <!-- LIDAR Project -->
+            <div class="project-card" onclick="window.location.href='LIDAR.html';">
+              <h2>LIDAR In Self-Driving Cars</h2>
+              <h3>December 2023 - May 2024</h3>
+              <img src="images/OPA.png" alt="Lidar Project Image - from ThinkAutonomous (2023) A Hardcore Look at 9 types of LiDAR sys-
+              temsAvailable at: https://www.thinkautonomous.ai/blog/types-of-lidar/ (Ac-
+              cessed: 16 April 2024). ">
+            </div>
+    
+            <!-- STM Project -->
+            <div class="project-card" onclick="window.location.href='STM.html';">
+              <h2>Scanning Tunneling Microscopy</h2>
+              <h3>February 2024 (3 weeks)</h3>
+              <img src="images/STM.png" alt="STM Project Image">
+            </div>
+    
+            <!-- Picoscope Project -->
+            <div class="project-card" onclick="window.location.href='Pico.html';">
+              <h2>Ferromagnetic Hysteresis - Analysis of a Large, Noisy Picoscope Dataset</h2>
+              <h3>November 2022 - December 2022</h3>
+              <img src="images/Pico.pdf" alt="Picoscope Project Image">
+            </div>
+    
+            <!-- SwiftUI Course
+            <div class="project-card" onclick="window.location.href='HWS.html';">
+              <h2>100 Days of SwiftUI</h2>
+              <h3>July 2022 - September 2022</h3>
+              <img src="images/project2.png" alt="Masters Project Image">
+            </div> -->
+          </div>
+        </div>
+      </body>
+
+      <!-- <h1>Featured Projects</h1> -->
       
-      <h1>Featured Projects</h1>
-      <div class="project-grid">
-        <!-- Masters Project -->
-        <div class="project-card" onclick="window.location.href='masters.html';">
-          <h2>Deep Learning Approaches for Tumour Identification and Classification</h2>
-          <h3>October 2024 - Present</h3>
-          <img src="images/project2.png" alt="Masters Project Image">
-        </div>
-
-        <!-- Sit-ups Project -->
-        <div class="project-card" onclick="window.location.href='CNNs.html';">
-          <h2>Movement Classification by Convolutional Neural Networks</h3>
-          <h3>July 2024 - Present</h3>
-          <img src="images/situps.jpeg" alt="sit-ups screenshot">
-        </div>
-        
-        <!-- N-Body Project -->
-        <div class="project-card" onclick="window.location.href='N-body.html';">
-          <h2>Hierarchical Methods for N-Body Simulations</h2>
-          <h3>February 2024 - May 2024</h3>
-          <img src="images/project2.png" alt="Masters Project Image">
-        </div>
-
-        <!-- LIDAR Project -->
-        <div class="project-card" onclick="window.location.href='LIDAR.html';">
-          <h2>LIDAR In Self-Driving Cars</h2>
-          <h3>December 2023 - May 2024</h3>
-          <img src="images/project2.png" alt="Masters Project Image">
-        </div>
-
-        <!-- STM Project -->
-        <div class="project-card" onclick="window.location.href='STM.html';">
-          <h2>Scanning Tunneling Microscopy</h2>
-          <h3>February 2024 (3 weeks)</h3>
-          <img src="images/project2.png" alt="Masters Project Image">
-        </div>
-
-        <!-- Picoscope Project -->
-        <div class="project-card" onclick="window.location.href='Pico.html';">
-          <h2>Ferromagnetic Hysteresis - Analysis of a Large, Noisy Picoscope Dataset</h2>
-          <h3>November 2022 - December 2022</h3>
-          <img src="images/project2.png" alt="Masters Project Image">
-        </div>
-
-        <!-- SwiftUI Course -->
-        <div class="project-card" onclick="window.location.href='HWS.html';">
-          <h2>100 Days of SwiftUI</h2>
-          <h3>July 2022 - September 2022</h3>
-          <img src="images/project2.png" alt="Masters Project Image">
-        </div>
-      </div>
     </main>
 
     
