@@ -51,10 +51,23 @@
         <div class="gray-background-list">
           <h2>Overview</h2>
           <ul>
-            <li> Have recently started this project. Currently finalising project goals.</li>
-            <li> Will be developing deep learning approaches for tumour identification and classification using Coherent Raman and mid‑
-                IR spectrographs of 90 biopsy samples collected as part of an international collaboration.</li>
-            <li> Current directions being explored are UNETS and graph diffusion networks, along with CCNs.</li>
+            <li> Designing machine learning approaches for tumour identification and classification using Coherent Raman and
+              mid‑IR spectrographs of 90 biopsy samples collected as part of an international collaboration. <li>
+            <li>Removed vignetting on 600 GB of noisy Raman signal using Fourier masking.</li>
+            <li>Implemented a multi‑scale CNN models with tanh activations to predominantly extract peak information in mid‑IR
+              spectrographs of 801 wavelengths.</li>
+            <ul>
+              <li>Overcame batched classifications in the IR training dataset by applying detailed hyper‑parameter tuning, regu‑
+                larisation, defining custom metrics, and incorporating a voting mechanism based on validation set performance.</li>
+              <li>Achieved pixel classifications which qualitatively match analysis of the biopsy using the gold‑standard method.</li>
+            </ul>
+            <li>Investigated explainability in this model by reducing LIME explanations to a latent space inside a VAE and then
+              applying K‑means on this latent space to form explanation contexts.</li>
+            <ul>
+              <li>Differentiated spectral features in these contexts, such as CH2 resonance intensities and frequency shifts.</li>
+            </ul>
+            <li>Configured L40S and TitanXP GPUs for training in a remote Linux ssh environment.</li>
+            <li>The numerical pipeline I have created for this project is available to <a href="https://github.com/THartigan/DL_Cancer_Annotations">view on GitHub.</a> </li>
           </ul>
         </div>
         
