@@ -6,37 +6,37 @@
         <loc>https://hartign.cc</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>1</priority>
     </url>
     <url>
         <loc>https://hartign.cc/index</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://hartign.cc/projects</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://hartign.cc/about</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/npe</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46</loc>
@@ -126,7 +126,7 @@
         <loc>https://hartign.cc/misc/asm</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5</loc>
@@ -228,7 +228,7 @@
         <loc>https://hartign.cc/misc/fsu</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1</loc>
@@ -342,7 +342,7 @@
         <loc>https://hartign.cc/misc/pp</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae</loc>
@@ -456,7 +456,7 @@
         <loc>https://hartign.cc/misc/aqcmp</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0</loc>
@@ -564,7 +564,7 @@
         <loc>https://hartign.cc/misc/rac</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8</loc>
@@ -726,12 +726,12 @@
         <loc>https://hartign.cc/documents</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://hartign.cc/documents/thomas_hartigan_cv.pdf</loc>
         <lastmod>2025-09-15</lastmod>
         <changefreq>always</changefreq>
-        <priority>0.5</priority>
+        <priority>0.7</priority>
     </url>
 </urlset>
