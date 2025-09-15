@@ -1,532 +1,737 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
 
-
-<url>
-  <loc>https://hartigan.cc/</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/index.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/projects.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/about.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/misc.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/Documents/Thomas_Hartigan_CV.pdf</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L1%20AQCMP%20-%20Concepts%20in%20Solid-State%20Physics%20bcafd0d6a82e4037b7734de3df6e4e94.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L2%20AQCMP%20-%20Independent-Electron%20Theory%20e794663fbe3c4c8e85abdd145d6c6e17.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L3%20AQCMP%20-%20Hartree-Fock%20Theory%209ed90eb8e2f14cf9b48575e576a870ba.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L4%20AQCMP%20-%20Density%20Functional%20Theory%20e6c7764e2a3b4e67a8d59ed9db869c24.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L5%20AQCMP%20-%20Electronic%20Response%20Theory%2028574e7343cd401f8ae4e7b43fe19033.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L6%20AQCMP%20-%20Quasiparticles%20789343d802af49aa81cd186091536840.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L7%20AQCMP%20-%20Magnetism%20Fundamentals%20d47eee39086b4fcdb5e61b2354553b44.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L8%20AQCMP%20-%20Magnetism%20Exchange%20Effects%201c18bfb5b4a94f838bbfd6d4da18d196.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L9%20AQCMP%20-%20Weak%20Electron-Photon%20Interactions%20c4d380de8a2f40b0bfb3ba18ab0e825e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L10%2011%20AQCMP%20-%20Strong%20Electron-Photon%20Interactions%200a4efcfeae024f1e8cadf57d6af68ad4.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L12%20AQCMP%20-%20Electron-Phonon%20Interactions%207a7c7f6e0edb4666943b2735b6415945.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L13-14%20AQCMP%20-%20Quantum%20Transport%20722a830c2ae44faf9f802653bdbf32bc.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L15-16%20AQCMP%20-%20Superconductivity%20c3e6b3b1a1cb4532919a3d77a2fa2f99.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L1%20-%20Introduction%201136d96567778039b9e4f891dd6b2577.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L2%20-%20GR%20Recap%201136d96567778013a644d046b465cfb5.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L3%20-%20Curvature%201136d96567778045b53af7a4352f85ed.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L4%20-%20Stars%201136d9656777801c98c0d2077c3444d9.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L5%20-%20Motion%20and%20Energy%20in%20Schwarzschild%20Metrics%201136d965677780e4bddfe27da0989128.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L6%20&amp;%207%20-%20Rotating%20Black%20Holes%201136d9656777809d82d1df5cf45ab508.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L8%20-%20Compact%20Objects%20and%20the%20Life%20Cycles%20of%20Stars%201136d965677780be9c7cc10d801e54ed.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L9%20-%20The%20Electromagnetic%20Spectrum%201136d965677780c88082cdd1974c9212.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L10%20-%20Accretion%20Discs%201136d965677780fca04bcfb6f1b44845.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L11%20-%20Active%20Galactic%20Nuclei%201136d965677780ec8cd9eb510c65adda.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L12%20-%20Neutron%20Stars%20and%20Pulsars%201136d965677780168e19f0931e7ca74e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L13%20-%20Precession,%20Binary%20Systems%20and%20Gravitational%201136d965677780338c49eee93ae00cf6.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L14%20-%20Gravitational%20Waves%201136d965677780e78056c33b96981922.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L15%20-%20Gravitational%20Lensing%201136d965677780fa812ac6ca0ea0714d.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L16%20-%20The%20Geometry%20of%20the%20Universe%201136d9656777800a8c09e6792804d4dc.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L17%20-%20Dynamics%20of%20the%20Universe%201136d965677780668ae6e97d85091133.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L18%20-%20The%20Evolution%20of%20the%20Universe%201136d965677780bc9137ff21361a8893.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L19%20-%20Measuring%20the%20Universe%201136d96567778089bcfff2d97e7369ea.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L20%20-%20Constituents%20of%20the%20Universe%201136d9656777806f88b2db3df262a139.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L21%20-%20Modern%20Cosmological%20Data%201136d965677780e4a294efb0b29ad79d.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L22%20-%20The%20Primordial%20Universe%201136d965677780a3802bc318e89cd1cd.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L23%20-%20The%20Perturbed%20Universe%201136d965677780f4ad49e04073a7f0d1.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H1%20-%20Introduction%2011b6d965677780f3a35ed46b1c6a4440.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H2%20-%20The%20Dirac%20Equation%2011b6d965677780dc8a3ad8003287798b.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H3%20-%20Interaction%20by%20Particle%20Exchange%20and%20QED%2011b6d965677780b5aacfd83994f69ca9.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H4%20-%20Electron-Positron%20Annihilation%2011b6d965677780b7b536fe9be487cbfc.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H5%20-%20Electron-Proton%20Elastic%20Scattering%2011b6d965677780818eade8f67860433f.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H6%20-%20Deep%20Inelastic%20Scattering%2011b6d965677780b58dbacc9cc59f180b.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H7%20-%20Symmetries%20and%20the%20Quark%20Model%2011b6d96567778036a42cd2951bb18ee9.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H8%20-%20Quantum%20Chromodynamics%2011b6d965677780ba994ef9fa6a2b3ebc.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H9%20-%20the%20Weak%20Interaction%20and%20V-A%2011b6d9656777803d9132d08564ad08d4.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H10%20-%20Leptonic%20Weak%20Interactions%20and%20Neutrino%20Deep%2011b6d9656777807e98bbf7b39df9c85c.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H11%20-%20Neutrino%20Oscillations%2011b6d9656777800cab03f0d4b3289ef7.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H12%20-%20The%20CKM%20Matrix%20and%20CP%20Violation%2011b6d965677780688f6df67b0426f6af.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H13%20-%20Electroweak%20Unification%20and%20the%20W%20and%20Z%20Boso%2011b6d9656777808fa017f7ffd2f5da56.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/PP/Particle%20Physics%205f541aa07402423fb6cf5be5a6e123ae/H14%20-%20Precision%20Tests%20of%20the%20Standard%20Model%2011b6d96567778072913ce9599029e120.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L1%20-%20A%20Recap%2018c6d965677780449339f71e4cfe3a58.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L2%20-%20Basic%20Terminology%20and%20Definitions%20in%20Probabil%201906d96567778017a7a1cb1a85fec00b.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L3%20-%20The%20Poisson%20Process%201926d965677780218922c297cacc917b.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L4%20-%20The%20Wiener%20Process%201936d965677780f6abc0e37f8e424825.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L5%20-%20The%20Black-Scholes%20Equation%201986d965677780d295cfc9f9da368e4e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L6%20-%20Financial%20Mathematics%201a06d965677780ccb445d8b25a774f35.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L7%20-%20The%20Orstein-Uhlenbeck%20Process%2019f6d965677780f8a62bfaea47fa8566.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L8%20-%20The%20Kramers-Moyal%20Expansion%201a16d965677780f4aaa4dd159360fcd2.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L9%20-%20The%20Smoluchowski%20Equation%20-%20Variable%20$%20sigma(%201ad6d965677780788845ca09aca07ca0.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L10%20-%20Mean%20First%20Passage%20Time%201ad6d96567778055bed0dbfc1e9ad513.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L11%20-%20Finding%20MFPT%20From%20Initial%20Conditions%201b46d965677780e7b580c7cf3b6630cf.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L12%20-%20Applications%20of%20MFPT%201b66d965677780d3af19d8fa1e908553.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L1%20-%20Intro%2019a6d965677780dba613d5a7c6a21b91.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L2%20-%20Radiative%20Processes%2019a6d9656777806094e4d64b7e4fa437.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L3%20-%20Thermodynamic%20Line%20Emission%2019a6d9656777804a99dfcde61c07f033.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L4%20-%20Collisional%20Line%20Emission%2019d6d965677780ce9b09cff52378762e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L5%20-%20Heating,%20Cooling%20and%20the%20Multi-Phase%20ISM%2019a6d965677780ec8538cef5b1c5cc64.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L6%20-%20Gravitational%20Instability%2019a6d9656777802586cbee12f3e2d250.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L7%20-%20Gravitational%20Collapse%2019f6d965677780c2ae8cf38c1906ca0e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L8%20-%20Protostars%201a16d965677780528c6cdfb89d156a71.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L9%20-%20Properties%20of%20Galaxies%20in%20the%20Local%20Universe%201a66d96567778018ae6ce433e86c171e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L10%20-%20Cloud%20Fragmentation%20and%20Galactic-Wide%20Star%20F%201a86d96567778065b48ed54d40007012.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L11%20-%20Gas,%20Star%20Formation%20and%20Metallicity%20Evolutio%201b26d965677780be9286e1485c39c1f7.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L12%20-%20Feedback%20Processes%20in%20Star%20Formation%201b56d965677780fab8a4f0d84775b336.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L13%20-%20Galactic%20Interactions%20Triggering%20Star%20Format%201b66d965677780cab0e1da9d8fcdfeba.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L14%20-%20Incorporating%20Cosmological%20Effects%20into%20Grav%201b76d965677780e2b8d7e5e4eb903377.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L15%20-%20Evolution%20of%20Fluctuations%20and%20Non-Linear%20Col%201c06d965677780f085e0e3e70d499f2e.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/FSU/Formation%20of%20Structure%20in%20the%20Universe%201886d965677780edaba5dd3578876ba1/L16%20-%20Galaxy%20Formation%20and%20Evolution%201c26d965677780ff8aa6eb872f87a68a.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L1%20-%20Nuclear%20Physics%20Basics%201916d965677780f692bff5cb9210863a.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L2%20-%20Health%20Physics%201936d96567778032b9d5e3c731735e5f.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L3%20-%20Interactions%20of%20Neutrons%20with%20Matter%201936d9656777809f854aff3e38fee107.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L4%20-%20The%20Fission%20Chain%20Reaction%20and%20The%20Neutron%20Di%201966d965677780b0909fe2e263c8808b.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L5%20-%20Generation%20I%20Reactor%20Design%201986d965677780ad96ccea67d5dbd9b0.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L6%20-%20Generation%20II%20Reactor%20Designs%201a06d9656777802ea3dac24f6b17074b.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L7%20-%20Generation%20III%20Reactor%20Designs%20and%20Reactor%20Te%201a56d965677780809beeef98571921eb.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L8%20-%20Reactor%20Kinetics%201a56d965677780699410ef098a72aae8.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L9%20-%20Nuclear%20Fuel%20Management%201af6d96567778099b584d9e47c285f71.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L10%20-%20The%20Nuclear%20Fuel%20Cycle%201b96d965677780029496ede5bc0b0ca4.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L11%20-%20Nuclear%20Fuel%20Reprocessing%201ba6d965677780b0acfbd5b96451ad6a.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/NPE/Nuclear%20Power%20Engineering%201916d96567778099bcb9e0b0780bde46/L12%20-%20Treatment%20of%20Active%20Wastes%201bb6d965677780bca21ff2bfb61d3d94.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/AQCMP/AQCMP%20Notes%209d0a9e0a2a01428ea3fd4d227c9c37f0/L3%20AQCMP%20-%20Hartree-Fock%20Theory%209ed90eb8e2f14cf9b48575e576a870ba/HF%20Energy%20Derivation%20Summary%20d6dfe3a0236c4941b9c8aecc82a2143c.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/RAC/Relativistic%20Astrophysics%20and%20Cosmology%20e88f6cbdffd74a21b4425783fd6b40e8/L14%20-%20Gravitational%20Waves%201136d965677780e78056c33b96981922/2-Body%20Problem%2013c6d965677780d0bdd4c66f2d6653ca.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://hartigan.cc/ASM/Advanced%20Statistical%20Mechanics%201886d96567778007bb12e8e1024a0ed5/L2%20-%20Basic%20Terminology%20and%20Definitions%20in%20Probabil%201906d96567778017a7a1cb1a85fec00b/Alternatives%201916d9656777802db8ede9cb2a2de79c.html</loc>
-  <lastmod>2025-07-25T10:43:13+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-
-
+    <url>
+        <loc>https://hartign.cc</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/index</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/projects</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/about</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l1-nuclear-physics-basics-1916d965677780f692bff5cb9210863a</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l2-health-physics-1936d96567778032b9d5e3c731735e5f</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l3-interactions-of-neutrons-with-matter-1936d9656777809f854aff3e38fee107</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l4-the-fission-chain-reaction-and-the-neutron-di-1966d965677780b0909fe2e263c8808b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l5-generation-i-reactor-design-1986d965677780ad96ccea67d5dbd9b0</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l6-generation-ii-reactor-designs-1a06d9656777802ea3dac24f6b17074b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l7-generation-iii-reactor-designs-and-reactor-te-1a56d965677780809beeef98571921eb</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l8-reactor-kinetics-1a56d965677780699410ef098a72aae8</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l9-nuclear-fuel-management-1af6d96567778099b584d9e47c285f71</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l10-the-nuclear-fuel-cycle-1b96d965677780029496ede5bc0b0ca4</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l11-nuclear-fuel-reprocessing-1ba6d965677780b0acfbd5b96451ad6a</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/npe/nuclear-power-engineering-1916d96567778099bcb9e0b0780bde46/l12-treatment-of-active-wastes-1bb6d965677780bca21ff2bfb61d3d94</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l1-a-recap-18c6d965677780449339f71e4cfe3a58</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l2-basic-terminology-and-definitions-in-probabil-1906d96567778017a7a1cb1a85fec00b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l3-the-poisson-process-1926d965677780218922c297cacc917b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l4-the-wiener-process-1936d965677780f6abc0e37f8e424825</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l5-the-black-scholes-equation-1986d965677780d295cfc9f9da368e4e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l6-financial-mathematics-1a06d965677780ccb445d8b25a774f35</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l7-the-orstein-uhlenbeck-process-19f6d965677780f8a62bfaea47fa8566</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l8-the-kramers-moyal-expansion-1a16d965677780f4aaa4dd159360fcd2</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l9-the-smoluchowski-equation-variable-$-sigma(-1ad6d965677780788845ca09aca07ca0</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l10-mean-first-passage-time-1ad6d96567778055bed0dbfc1e9ad513</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l11-finding-mfpt-from-initial-conditions-1b46d965677780e7b580c7cf3b6630cf</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l12-applications-of-mfpt-1b66d965677780d3af19d8fa1e908553</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l2-basic-terminology-and-definitions-in-probabil-1906d96567778017a7a1cb1a85fec00b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/asm/advanced-statistical-mechanics-1886d96567778007bb12e8e1024a0ed5/l2-basic-terminology-and-definitions-in-probabil-1906d96567778017a7a1cb1a85fec00b/alternatives-1916d9656777802db8ede9cb2a2de79c</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l1-intro-19a6d965677780dba613d5a7c6a21b91</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l2-radiative-processes-19a6d9656777806094e4d64b7e4fa437</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l3-thermodynamic-line-emission-19a6d9656777804a99dfcde61c07f033</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l4-collisional-line-emission-19d6d965677780ce9b09cff52378762e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l5-heating,-cooling-and-the-multi-phase-ism-19a6d965677780ec8538cef5b1c5cc64</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l6-gravitational-instability-19a6d9656777802586cbee12f3e2d250</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l7-gravitational-collapse-19f6d965677780c2ae8cf38c1906ca0e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l8-protostars-1a16d965677780528c6cdfb89d156a71</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l9-properties-of-galaxies-in-the-local-universe-1a66d96567778018ae6ce433e86c171e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l10-cloud-fragmentation-and-galactic-wide-star-f-1a86d96567778065b48ed54d40007012</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l11-gas,-star-formation-and-metallicity-evolutio-1b26d965677780be9286e1485c39c1f7</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l12-feedback-processes-in-star-formation-1b56d965677780fab8a4f0d84775b336</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l13-galactic-interactions-triggering-star-format-1b66d965677780cab0e1da9d8fcdfeba</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l14-incorporating-cosmological-effects-into-grav-1b76d965677780e2b8d7e5e4eb903377</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l15-evolution-of-fluctuations-and-non-linear-col-1c06d965677780f085e0e3e70d499f2e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/fsu/formation-of-structure-in-the-universe-1886d965677780edaba5dd3578876ba1/l16-galaxy-formation-and-evolution-1c26d965677780ff8aa6eb872f87a68a</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h1-introduction-11b6d965677780f3a35ed46b1c6a4440</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h2-the-dirac-equation-11b6d965677780dc8a3ad8003287798b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h3-interaction-by-particle-exchange-and-qed-11b6d965677780b5aacfd83994f69ca9</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h5-electron-proton-elastic-scattering-11b6d965677780818eade8f67860433f</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h4-electron-positron-annihilation-11b6d965677780b7b536fe9be487cbfc</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h6-deep-inelastic-scattering-11b6d965677780b58dbacc9cc59f180b</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h7-symmetries-and-the-quark-model-11b6d96567778036a42cd2951bb18ee9</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h8-quantum-chromodynamics-11b6d965677780ba994ef9fa6a2b3ebc</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h9-the-weak-interaction-and-v-a-11b6d9656777803d9132d08564ad08d4</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h10-leptonic-weak-interactions-and-neutrino-deep-11b6d9656777807e98bbf7b39df9c85c</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h11-neutrino-oscillations-11b6d9656777800cab03f0d4b3289ef7</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h12-the-ckm-matrix-and-cp-violation-11b6d965677780688f6df67b0426f6af</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h13-electroweak-unification-and-the-w-and-z-boso-11b6d9656777808fa017f7ffd2f5da56</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h14-precision-tests-of-the-standard-model-11b6d96567778072913ce9599029e120</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h3-interaction-by-particle-exchange-and-qed-11b6d965677780b5aacfd83994f69ca9</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/pp/particle-physics-5f541aa07402423fb6cf5be5a6e123ae/h3-interaction-by-particle-exchange-and-qed-11b6d965677780b5aacfd83994f69ca9/img_5161.heic</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l1-aqcmp-concepts-in-solid-state-physics-bcafd0d6a82e4037b7734de3df6e4e94</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l2-aqcmp-independent-electron-theory-e794663fbe3c4c8e85abdd145d6c6e17</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l3-aqcmp-hartree-fock-theory-9ed90eb8e2f14cf9b48575e576a870ba</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l4-aqcmp-density-functional-theory-e6c7764e2a3b4e67a8d59ed9db869c24</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l5-aqcmp-electronic-response-theory-28574e7343cd401f8ae4e7b43fe19033</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l6-aqcmp-quasiparticles-789343d802af49aa81cd186091536840</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l7-aqcmp-magnetism-fundamentals-d47eee39086b4fcdb5e61b2354553b44</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l8-aqcmp-magnetism-exchange-effects-1c18bfb5b4a94f838bbfd6d4da18d196</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l9-aqcmp-weak-electron-photon-interactions-c4d380de8a2f40b0bfb3ba18ab0e825e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l10-11-aqcmp-strong-electron-photon-interactions-0a4efcfeae024f1e8cadf57d6af68ad4</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l12-aqcmp-electron-phonon-interactions-7a7c7f6e0edb4666943b2735b6415945</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l13-14-aqcmp-quantum-transport-722a830c2ae44faf9f802653bdbf32bc</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l15-16-aqcmp-superconductivity-c3e6b3b1a1cb4532919a3d77a2fa2f99</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l3-aqcmp-hartree-fock-theory-9ed90eb8e2f14cf9b48575e576a870ba</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/aqcmp/aqcmp-notes-9d0a9e0a2a01428ea3fd4d227c9c37f0/l3-aqcmp-hartree-fock-theory-9ed90eb8e2f14cf9b48575e576a870ba/hf-energy-derivation-summary-d6dfe3a0236c4941b9c8aecc82a2143c</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l1-introduction-1136d96567778039b9e4f891dd6b2577</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l2-gr-recap-1136d96567778013a644d046b465cfb5</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l3-curvature-1136d96567778045b53af7a4352f85ed</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l4-stars-1136d9656777801c98c0d2077c3444d9</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l5-motion-and-energy-in-schwarzschild-metrics-1136d965677780e4bddfe27da0989128</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l6-&-7-rotating-black-holes-1136d9656777809d82d1df5cf45ab508</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l8-compact-objects-and-the-life-cycles-of-stars-1136d965677780be9c7cc10d801e54ed</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l9-the-electromagnetic-spectrum-1136d965677780c88082cdd1974c9212</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l10-accretion-discs-1136d965677780fca04bcfb6f1b44845</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l11-active-galactic-nuclei-1136d965677780ec8cd9eb510c65adda</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l12-neutron-stars-and-pulsars-1136d965677780168e19f0931e7ca74e</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l13-precession,-binary-systems-and-gravitational-1136d965677780338c49eee93ae00cf6</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l14-gravitational-waves-1136d965677780e78056c33b96981922</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l15-gravitational-lensing-1136d965677780fa812ac6ca0ea0714d</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l16-the-geometry-of-the-universe-1136d9656777800a8c09e6792804d4dc</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l17-dynamics-of-the-universe-1136d965677780668ae6e97d85091133</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l18-the-evolution-of-the-universe-1136d965677780bc9137ff21361a8893</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l19-measuring-the-universe-1136d96567778089bcfff2d97e7369ea</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l20-constituents-of-the-universe-1136d9656777806f88b2db3df262a139</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l21-modern-cosmological-data-1136d965677780e4a294efb0b29ad79d</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l22-the-primordial-universe-1136d965677780a3802bc318e89cd1cd</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l23-the-perturbed-universe-1136d965677780f4ad49e04073a7f0d1</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l14-gravitational-waves-1136d965677780e78056c33b96981922</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/misc/rac/relativistic-astrophysics-and-cosmology-e88f6cbdffd74a21b4425783fd6b40e8/l14-gravitational-waves-1136d965677780e78056c33b96981922/2-body-problem-13c6d965677780d0bdd4c66f2d6653ca</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/documents</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://hartign.cc/documents/thomas_hartigan_cv.pdf</loc>
+        <lastmod>2025-09-15</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
